@@ -1,6 +1,7 @@
 public with sharing class MyClass {
 	public MyClass() {
-
+     
+		system.debug('moved from vs code');
 
 	}
 
