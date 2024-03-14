@@ -4,6 +4,7 @@
     <name>ApexClass</name>
     <members>MyClass</members>
     <members>MyTest</members>
+    <members>TestJenkins</members>
   </types>
   <version>44.0</version>
 </Package>
