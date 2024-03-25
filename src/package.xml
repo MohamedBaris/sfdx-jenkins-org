@@ -3,9 +3,9 @@
   <types>
     <name>ApexClass</name>
     <members>MyClass</members>
-     <!--<members>MyTest</members>
+    <members>MyTest</members>
    <members>TestJenkins</members>
-    <members>Jenkins</members>-->
+    <members>Jenkins</members>
   </types>
   <version>44.0</version>
 </Package>
