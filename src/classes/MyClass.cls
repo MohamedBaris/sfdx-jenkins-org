@@ -1,7 +1,7 @@
 public with sharing class MyClass {
 	public MyClass() {
      
-		//checck
+		//checck-2
 		system.debug('25-03-24');
 
 	}
